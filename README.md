@@ -9,4 +9,4 @@ We use the svm function from e1071 package to run SVM classification in R. We ha
 2) A real dataset to show the applicability of SVM in finance
 
 # The PwerPoint file
-In this file, we introduce some online recources on the e1071 package.
+In this file, we introduce some online sources on the e1071 package.
